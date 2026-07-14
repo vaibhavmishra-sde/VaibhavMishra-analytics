@@ -1,62 +1,175 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
-###
+# Hi 👋, I'm Vaibhav Mishra
 
-<div align="center">
-  <a href="https://linkedin.com/in/vaibhav-mishra-369488322">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:vaibhavmishra9679@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
-  </a>
-</div>
+### Software Engineering Student | Full Stack Developer | AI Enthusiast
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VaibhavMishra.github.io&" />
-</div>
-
-###
-
-<h1 align="center">hey there 👋 I'm Vaibhav</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-I'm a <b>BCA Student</b> (Class of 2028) at <b>Parul University</b> from <b>Port Blair, Andaman and Nicobar Islands</b>.<br><br>
-- 🔭 I’m working on <b>Data Analytics & Big Data</b> projects.<br>
-- 📚 I'm currently learning <b>Advanced SQL, Power BI, and Machine Learning</b>.<br>
-- ⚡ In my free time, I enjoy solving logical puzzles and digging into complex datasets.
+<p>
+Building scalable software, solving real-world problems, and preparing for Software Engineering roles.
 </p>
 
-###
+<img src="https://komarev.com/ghpvc/?username=VaibhavMishra-analytics&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-<h3 align="left">🛠 Languages and Tools</h3>
+</div>
 
-<h3 align="center">A passionate Data analyst from India</h3>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# 👨‍💻 About Me
+
+🎓 BCA Student (Class of 2028) at **Parul University**
+
+💻 Aspiring Software Engineer
+
+🚀 Currently preparing for Software Engineering placements
+
+🧠 Learning
+
+- Java
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management System
+- Operating Systems
+- Computer Networks
+- React
+- Node.js
+- PostgreSQL
+
+🤖 Interested in
+
+- AI Engineering
+- Full Stack Development
+- Software Architecture
+- System Design
+
+🎯 Goal
+
+Become a Software Engineer and build AI-powered software products.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frontend
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-<h3 align="left">🔥 My Stats :</h3>
+### Backend
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-###
+### Databases
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" height="170" alt="top langs" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+✔ Java
+
+✔ Data Structures & Algorithms
+
+✔ Software Engineering
+
+✔ Full Stack Development
+
+✔ Building Production Ready Projects
+
+---
+
+# 📂 Featured Projects
+
+## 🛡 BalKavach AI
+
+AI-powered Child Safety & Parental Monitoring Platform.
+
+Tech Stack
+
+- Python
+- AI
+- FastAPI
+- Flutter
+- SQLite
+
+---
+
+## 🤖 AI Nutrition Platform (In Progress)
+
+AI-powered nutrition planning and competitor intelligence platform.
+
+---
+
+## 💻 Software Engineering Placement Bible
+
+My complete roadmap, notes, interview preparation, and coding journey.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VaibhavMishra-analytics&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavMishra-analytics&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=VaibhavMishra-analytics&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📚 2026 Goals
+
+- Master Java
+- Solve 450+ DSA Problems
+- Build 6 Software Engineering Projects
+- Learn React & Node.js
+- Master DBMS, OS & CN
+- Crack an 8–9+ LPA Software Engineering Placement
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/vaibhav-mishra-369488322">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:vaibhavmishra9679@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+> *"First, solve the problem. Then, write clean, maintainable code."*

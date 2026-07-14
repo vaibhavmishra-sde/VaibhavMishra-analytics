@@ -1,175 +1,121 @@
 <div align="center">
 
-# Hi 👋, I'm Vaibhav Mishra
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+
+# Hi 👋 I'm Vaibhav Mishra
 
 ### Software Engineering Student | Full Stack Developer | AI Enthusiast
 
 <p>
-Building scalable software, solving real-world problems, and preparing for Software Engineering roles.
+Building scalable software and solving real-world problems through modern technologies.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=VaibhavMishra-analytics&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p>
+<a href="https://linkedin.com/in/vaibhav-mishra-369488322">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vaibhavmishra9679@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=VaibhavMishra-analytics&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 BCA Student (Class of 2028) at **Parul University**
-
-💻 Aspiring Software Engineer
-
-🚀 Currently preparing for Software Engineering placements
-
-🧠 Learning
-
-- Java
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management System
-- Operating Systems
-- Computer Networks
-- React
-- Node.js
-- PostgreSQL
-
-🤖 Interested in
-
-- AI Engineering
-- Full Stack Development
-- Software Architecture
-- System Design
-
-🎯 Goal
-
-Become a Software Engineer and build AI-powered software products.
+- 🎓 BCA Student at **Parul University**
+- 💻 Passionate about **Software Engineering** and **Full Stack Development**
+- 🤖 Interested in **Artificial Intelligence**, **Backend Engineering**, and **Scalable Systems**
+- 🚀 Focused on building practical, production-ready software
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
 </p>
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Featured Projects
 
-✔ Java
+### 🛡️ BalKavach AI
 
-✔ Data Structures & Algorithms
+AI-powered Child Safety & Parental Monitoring Platform
 
-✔ Software Engineering
-
-✔ Full Stack Development
-
-✔ Building Production Ready Projects
+**Tech Stack:** Flutter • FastAPI • Python • SQLite • AI
 
 ---
 
-# 📂 Featured Projects
-
-## 🛡 BalKavach AI
-
-AI-powered Child Safety & Parental Monitoring Platform.
-
-Tech Stack
-
-- Python
-- AI
-- FastAPI
-- Flutter
-- SQLite
-
----
-
-## 🤖 AI Nutrition Platform (In Progress)
-
-AI-powered nutrition planning and competitor intelligence platform.
-
----
-
-## 💻 Software Engineering Placement Bible
-
-My complete roadmap, notes, interview preparation, and coding journey.
-
----
-
-# 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavMishra-analytics&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VaibhavMishra-analytics&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavMishra-analytics&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavMishra-analytics&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=VaibhavMishra-analytics&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=VaibhavMishra-analytics&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📚 2026 Goals
+## 📫 Connect With Me
 
-- Master Java
-- Solve 450+ DSA Problems
-- Build 6 Software Engineering Projects
-- Learn React & Node.js
-- Master DBMS, OS & CN
-- Crack an 8–9+ LPA Software Engineering Placement
-
----
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/vaibhav-mishra-369488322">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="left">
 
 <a href="mailto:vaibhavmishra9679@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://linkedin.com/in/vaibhav-mishra-369488322">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-> *"First, solve the problem. Then, write clean, maintainable code."*
+<div align="center">
+
+### "Code. Learn. Build. Improve."
+
+</div>
